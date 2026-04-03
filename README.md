@@ -1,16 +1,104 @@
-## Hi there 👋
+# Hi, I'm Pandu Ranga Sai 👋
 
-<!--
-**manikantac4/manikantac4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-Powered Full Stack Developer with experience in Market Research and Data Analytics.  
+Focused on building scalable applications using MERN, Machine Learning, and IoT to solve real-world problems through intelligent systems and impactful products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Am Capable Of
+
+- Building full-stack web and mobile applications  
+- Developing AI/ML-based systems for prediction and automation  
+- Analyzing data to extract insights and support decision-making  
+- Designing solutions that connect real-world problems with technology  
+
+---
+
+## 🛠️ Skills
+
+### 🔹 AI & Machine Learning
+Machine Learning • Deep Learning (Basic Algorithms) • Scikit-learn • OpenCV
+
+### 🔹 Backend & Architecture
+Node.js • Express.js • REST APIs • Flask
+
+### 🔹 Frontend & Mobile
+React.js • JavaScript • Flutter • Responsive Design • HTML • CSS
+
+### 🔹 Databases
+MongoDB • MySQL
+
+### 🔹 Data Analysis & Research
+Data Analysis • Market Research • Data Visualization (Basics)
+
+### 🔹 Tools & Development
+Git • GitHub • VS Code • Postman • Power BI • Deployment
+
+### 🔹 Currently Working On
+LLM Integration • Docker
+
+---
+
+## 🚀 Featured Projects
+
+### 🛰️ Water Body Extraction (Ongoing)
+Developing a system to detect water bodies using satellite imagery and elevation data.  
+Applies machine learning models for classification and data preprocessing.
+
+**Tech Stack:** Python, Machine Learning, Remote Sensing, React  
+
+---
+
+### 🧠 SENTINEL — AI-Powered Global Risk Intelligence Platform
+Built a system that analyzes global events and predicts their impact on businesses.  
+Maps real-world risks to business dependencies and provides actionable insights.
+
+**Tech Stack:** React, Tailwind CSS, Node.js, Express, LLM Integration, Artificial Intelligence  
+
+---
+
+### 🌍 TOURIX — AI Tourism Platform (SIH)
+Designed a platform to enhance tourism using AI-based planning and smart digital services.  
+Focuses on improving user experience with intelligent recommendations.
+
+**Tech Stack:** React, Flutter, Node.js, Express, MongoDB, AI, Mapbox, Docker, AWS  
+
+---
+
+### 🌫️ Indoor Air Quality Monitoring & Smart Alerts
+Developed a real-time system to monitor indoor gases and provide alerts with predictions.  
+Includes IoT integration, mobile app, and backend processing.
+
+**Tech Stack:** Flutter, Flask, MongoDB, Machine Learning, IoT  
+
+---
+
+### 🤖 QuickCareer — AI Resume Analyzer
+Built a platform to analyze resumes, calculate ATS scores, and recommend jobs.  
+Implements full-stack architecture with ML-based matching logic.
+
+**Tech Stack:** MongoDB, Express, React, Node.js, Machine Learning  
+
+---
+
+## 🏆 Hackathons & Leadership
+
+### 🧩 Participated
+Participated in 4+ hackathons, building real-world solutions in collaborative environments.
+
+---
+
+### 🎯 Organized Hackathons
+
+- 🔗 **CodeFusion** — Co-organized and managed registrations, coordination, and execution  
+  👉 https://github.com/YOUR_USERNAME/CodeFusion  
+
+- 🔗 **Omnitrix** — Led event execution and participant engagement  
+  👉 https://github.com/YOUR_USERNAME/Omnitrix  
+
+---
+
+## 📫 Connect With Me
+- 🔗 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- 🔗 GitHub: https://github.com/YOUR_USERNAME  
+- 📧 Email: panduranga1797@gmail.com

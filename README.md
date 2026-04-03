@@ -1,4 +1,4 @@
-# Hi, I'm Pandu Ranga Sai 👋
+# Hi, I'm Pandu Ranga Sai Manikanta Tummuri 👋
 
 AI-Powered Full Stack Developer with experience in Market Research and Data Analytics.  
 Focused on building scalable applications using MERN, Machine Learning, and IoT to solve real-world problems through intelligent systems and impactful products.
@@ -91,14 +91,17 @@ Participated in 4+ hackathons, building real-world solutions in collaborative en
 ### 🎯 Organized Hackathons
 
 - 🔗 **CodeFusion** — Co-organized and managed registrations, coordination, and execution  
-  👉 https://github.com/YOUR_USERNAME/CodeFusion  
+  👉 https://github.com/roshaneleshaddai/rdconclave
 
 - 🔗 **Omnitrix** — Led event execution and participant engagement  
-  👉 https://github.com/YOUR_USERNAME/Omnitrix  
+  👉 https://github.com/manikantac4/omnitrix-frontend
 
 ---
 
 ## 📫 Connect With Me
-- 🔗 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 🔗 GitHub: https://github.com/YOUR_USERNAME  
+- 🔗 LinkedIn: https://www.linkedin.com/in/pandu-ranga-tummuri-1b1b772a2/
+- 🔗 GitHub: https://github.com/manikantac4/
 - 📧 Email: panduranga1797@gmail.com
+---
+### 💼 Currently Working On
+Actively working on Deep Learning, developing LLM-based intelligent applications, and implementing scalable, containerized solutions using Docker.

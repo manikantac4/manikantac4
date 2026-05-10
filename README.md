@@ -84,7 +84,7 @@ Implements full-stack architecture with ML-based matching logic.
 ## 🏆 Hackathons & Leadership
 
 ### 🧩 Participated
-Participated in 4+ hackathons, building real-world solutions in collaborative environments.
+Participated in 7+ hackathons, building real-world solutions in collaborative environments.
 
 ---
 

@@ -1,107 +1,148 @@
-# Hi, I'm Pandu Ranga Sai Manikanta Tummuri 👋
+# Pandu Ranga  Tummuri
 
-AI-Powered Full Stack Developer with experience in Market Research and Data Analytics.  
-Focused on building scalable applications using MERN, Machine Learning, and IoT to solve real-world problems through intelligent systems and impactful products.
+### AI Solutions Builder • Full-Stack Developer • Data Analytics Enthusiast • IEEE Web Developer
 
----
+Passionate about building intelligent systems that combine Artificial Intelligence, Data Analytics, Research, and Full-Stack Engineering to solve real-world challenges.
 
-## 🚀 What I Am Capable Of
-
-- Building full-stack web and mobile applications  
-- Developing AI/ML-based systems for prediction and automation  
-- Analyzing data to extract insights and support decision-making  
-- Designing solutions that connect real-world problems with technology  
+Currently focused on developing AI-powered applications, intelligent decision-support systems, geospatial intelligence solutions, and scalable digital products.
 
 ---
 
-## 🛠️ Skills
+## About Me
 
-### 🔹 AI & Machine Learning
-Machine Learning • Deep Learning (Basic Algorithms) • Scikit-learn • OpenCV
+* Final Year B.Tech Information Technology Student at V.R. Siddhartha Engineering College
+* Data Analytics Intern at Screen Andragogy Platforms
+* IEEE Student Branch Web Developer (2025–2026)
+* Active Hackathon Participant and Innovation Enthusiast
+* Interested in Intelligent Systems, Geospatial Intelligence, Data Analytics, and Full-Stack Engineering
 
-### 🔹 Backend & Architecture
-Node.js • Express.js • REST APIs • Flask
+---
 
-### 🔹 Frontend & Mobile
-React.js • JavaScript • Flutter • Responsive Design • HTML • CSS
+## Technical Expertise
 
-### 🔹 Databases
+### Artificial Intelligence & Intelligent Systems
+
+Machine Learning • Deep Learning • Computer Vision • OpenCV • Scikit-Learn • Predictive Analytics
+
+### Geospatial Intelligence
+
+Remote Sensing • Satellite Imagery Analysis • GIS • U-Net Segmentation • NDWI • MNDWI
+
+### Full-Stack Development
+
+React.js • JavaScript • Node.js • Express.js • REST APIs • Flask
+
+### Mobile Development
+
+Flutter • Cross-Platform Application Development • Responsive Design
+
+### Data & Analytics
+
+Data Analytics • Market Research • Data Visualization • Business Insights
+
+### Databases
+
 MongoDB • MySQL
 
-### 🔹 Data Analysis & Research
-Data Analysis • Market Research • Data Visualization (Basics)
+### Tools & Platforms
 
-### 🔹 Tools & Development
-Git • GitHub • VS Code • Postman • Power BI • Deployment
+Git • GitHub • Postman • VS Code • Power BI • Deployment
 
-### 🔹 Currently Working On
-LLM Integration • Docker
+## Featured Projects
 
----
+### Water Body Extraction Using Satellite Imagery & Elevation Data
 
-## 🚀 Featured Projects
+**Tech Stack:** React.js • Flask • Python • OpenCV • U-Net • Sentinel-2 • NDWI • MNDWI
 
-### 🛰️ Water Body Extraction (Ongoing)
-Developing a system to detect water bodies using satellite imagery and elevation data.  
-Applies machine learning models for classification and data preprocessing.
-
-**Tech Stack:** Python, Machine Learning, Remote Sensing, React  
+* Developed a Geospatial AI system for automated water body extraction from satellite imagery.
+* Utilized Sentinel-2 satellite imagery along with NDWI and MNDWI indices for water detection.
+* Implemented U-Net segmentation models to improve extraction accuracy across diverse terrains.
+* Applied OpenCV-based preprocessing and boundary extraction techniques for precise water-body mapping.
+* Built an end-to-end workflow for image processing, prediction, and visualization.
 
 ---
 
-### 🧠 SENTINEL — AI-Powered Global Risk Intelligence Platform
-Built a system that analyzes global events and predicts their impact on businesses.  
-Maps real-world risks to business dependencies and provides actionable insights.
+### SENTINEL — AI-Powered Risk Intelligence Platform
 
-**Tech Stack:** React, Tailwind CSS, Node.js, Express, LLM Integration, Artificial Intelligence  
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • LLMs • Docker • AWS
 
----
-
-### 🌍 TOURIX — AI Tourism Platform (SIH)
-Designed a platform to enhance tourism using AI-based planning and smart digital services.  
-Focuses on improving user experience with intelligent recommendations.
-
-**Tech Stack:** React, Flutter, Node.js, Express, MongoDB, AI, Mapbox, Docker, AWS  
+* Developed an AI-powered platform for business risk monitoring and intelligence generation.
+* Integrated LLM-driven decision-support workflows for contextual risk assessment.
+* Designed systems to analyze real-world events and map their impact on business operations.
+* Generated actionable recommendations through intelligent reasoning pipelines.
+* Built scalable full-stack architecture for data aggregation and visualization.
 
 ---
 
-### 🌫️ Indoor Air Quality Monitoring & Smart Alerts
-Developed a real-time system to monitor indoor gases and provide alerts with predictions.  
-Includes IoT integration, mobile app, and backend processing.
+### AI-Driven Indoor Air Quality Monitoring & Smart Alerts
 
-**Tech Stack:** Flutter, Flask, MongoDB, Machine Learning, IoT  
+**Tech Stack:** Flutter • Flask • MongoDB • ESP32 • Deep Learning • BiLSTM
 
----
-
-### 🤖 QuickCareer — AI Resume Analyzer
-Built a platform to analyze resumes, calculate ATS scores, and recommend jobs.  
-Implements full-stack architecture with ML-based matching logic.
-
-**Tech Stack:** MongoDB, Express, React, Node.js, Machine Learning  
+* Built an IoT-based air quality monitoring system using ESP32 and multiple gas sensors.
+* Developed BiLSTM forecasting models for future gas concentration prediction.
+* Implemented real-time monitoring, alerts, and smart recommendations.
+* Integrated mobile notifications and voice-based alert systems.
+* Designed a complete Flutter-Flask-MongoDB ecosystem for environmental intelligence.
 
 ---
 
-## 🏆 Hackathons & Leadership
+### Service Booking & Management Platform
 
-### 🧩 Participated
-Participated in 7+ hackathons, building real-world solutions in collaborative environments.
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Gemini AI
 
----
-
-### 🎯 Organized Hackathons
-
-- 🔗 **CodeFusion** — Co-organized and managed registrations, coordination, and execution  
-  👉 https://github.com/roshaneleshaddai/rdconclave
-
-- 🔗 **Omnitrix** — Led event execution and participant engagement  
-  👉 https://github.com/manikantac4/omnitrix-frontend
+* Developed a full-stack service booking ecosystem with provider and customer dashboards.
+* Implemented booking automation, request handling, and queue management systems.
+* Built service approval and blocking mechanisms for operational control.
+* Integrated AI-powered assistance for customer interactions and support workflows.
+* Designed scalable APIs for booking, scheduling, and profile management.
 
 ---
 
-## 📫 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/pandu-ranga-tummuri-1b1b772a2/
-- 🔗 GitHub: https://github.com/manikantac4/
-- 📧 Email: panduranga1797@gmail.com
+## Achievements & Leadership
+
+### Innovation & Hackathons
+
+* Participated in 9+ Hackathons, Ideathons, and Innovation Challenges
+* First Prize Winner – College Level Ideathon
+* Developed AI, Full-Stack, and Research-Oriented Solutions in Competitive Environments
+
+### Leadership
+
+#### IEEE Student Branch
+
+Web Developer (2025–2026)
+
+Contributing to website development, technical initiatives, and digital platforms.
+
+#### OMNITRIX 2025
+
+Organizer & Technical Team
+
+Supported event planning, technical operations, and participant engagement.
+
+#### CodeFusion Hackathon – Research Conclave 2026
+
+Organizer & Technical Co-Lead
+
+Led website development, registration systems, technical infrastructure, and participant management for a national-level hackathon.
+
 ---
-### 💼 Currently Working On
-Actively working on Deep Learning, developing LLM-based intelligent applications, and implementing scalable, containerized solutions using Docker.
+
+## Current Focus
+Focused on building intelligent systems through RAG, LLMs, Geospatial AI, Intelligent Analytics, Automation, and Containerized AI Deployments.
+
+---
+
+## Connect
+
+LinkedIn: [www.linkedin.com/in/pandu-ranga-tummuri-1b1b772a2](http://www.linkedin.com/in/pandu-ranga-tummuri-1b1b772a2)
+
+GitHub: github.com/manikantac4
+
+Email: [panduranga1797@gmail.com](mailto:panduranga1797@gmail.com)
+
+Portfolio: https://buildwithpandu.vercel.app/
+
+---
+
+Interested in collaborating on AI, Intelligent Systems, Geospatial AI, Full-Stack Development, Research Projects, Open Source, and Innovation-Driven Solutions.

@@ -103,7 +103,6 @@ Git • GitHub • Postman • VS Code • Power BI • Deployment
 ### Innovation & Hackathons
 
 * Participated in 9+ Hackathons, Ideathons, and Innovation Challenges
-* First Prize Winner – College Level Ideathon
 * Developed AI, Full-Stack, and Research-Oriented Solutions in Competitive Environments
 
 ### Leadership

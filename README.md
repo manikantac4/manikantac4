@@ -50,7 +50,7 @@ MongoDB • MySQL
 
 ### Tools & Platforms
 
-Git • GitHub • Postman • VS Code • Power BI • Deployment
+Git • GitHub • CI/CD • Postman • VS Code • Power BI • Vercel • Render
 
 ## Featured Projects
 

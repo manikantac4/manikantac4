@@ -1,6 +1,6 @@
 # Pandu Ranga  Tummuri
 
-### AI Solutions Builder • Full-Stack Developer • Data Analytics Enthusiast • IEEE Web Developer
+### AI Engineer • Full-Stack Developer • Data Analytics Enthusiast • IEEE Web Developer
 
 Passionate about building intelligent systems that combine Artificial Intelligence, Data Analytics, Research, and Full-Stack Engineering to solve real-world challenges.
 
@@ -19,6 +19,10 @@ Currently focused on developing AI-powered applications, intelligent decision-su
 ---
 
 ## Technical Expertise
+
+### Programming Languages
+
+Java • C • Python(basics)
 
 ### Artificial Intelligence & Intelligent Systems
 
